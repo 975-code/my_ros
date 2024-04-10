@@ -1,2 +1,2 @@
-learning_topic
+learning_topic:mytopic
 -DCATKIN_DEVEL_PREFIX=/home/wqk/resident/catkin_t1/devel -DCMAKE_INSTALL_PREFIX=/home/wqk/resident/catkin_t1/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/wqk/resident/catkin_t1/install
+
+Name: mytopic
+Description: Description of mytopic
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs message_runtime
